@@ -18,7 +18,8 @@ Projeto simples que consome uma API para exibir imagens aleatórias de gatos.
 - Integração com The Cat API
 
 ## 📸 Preview
-![preview](screenshot.png)
+![Random Cat](https://github.com/user-attachments/assets/7a8d3c17-772a-4091-91be-d52c746a77b7)
+
 
 ## ▶️ Como executar localmente
 ```bash
